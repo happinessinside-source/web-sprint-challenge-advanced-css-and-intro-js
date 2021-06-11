@@ -235,5 +235,10 @@ button:hover {
 }
 
 @media screen and (max-width: 500px) {
-    div
+    .artists-container {
+        justify-content: center;
+        width: 80%;
+        text-align: center;
+        margin: 0 auto;
+    }
 }
