@@ -23,9 +23,20 @@ Commit your code regularly and meaningfully.
 Please answer the following questions below, you may edit the readme file to include your answers below the question.
 
 1. How would you describe acessibility on the web to someone new to programming?
-2. Talk about 3 different things you can do to ensure your website is accessible. 
+   Acessibility on the web allows for users of all abilities to interact with the page that they see or that
+   is visible on a browser screen which is usually the finished product after the programming is done. When a web page is built it is given a structured lay out, then it is given it's design like colors and text fonts, and finally the programmer gives it commands that allows the user to interact with the website in whatever way it was designed for.
+2. Talk about 3 different things you can do to ensure your website is accessible.
+   Accessiblity could include adding a discription of images on your webpage so that users who are
+   vision impaired can have a clear idea of what is being shown. Also, the ease of which the user
+   is able to interact with the web page is what makes it accessible and that can be made easy by labeling 
+   buttons properly or allowing the user to interact with the web page by simple adding one word here or there. A third thing that can make a site more accessible is adding an immersive reader tool so that 
+   no matter what the user's reading ability is they will still be able to listen to the words on the web page.
 3. How would you explain the concept of a variable to someone new to programming?
+   Variables change based on the information the user gives the web page based on what the programmer has 
+   preassigned the web page to return when the user gives it that particular information.
 4. What is the purpose of using functions in code?
+   The purpose of using functions in code is to command the browser to return different information 
+   based on what the web page was designed for and how the user interacts with it.
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
 
